@@ -1,0 +1,9 @@
+
+How do I install the latest Nvidia drivers automatically?
+
+sudo ubuntu-drivers autoinstall   
+sudo reboot   
+
+
+https://askubuntu.com/questions/1195996/how-do-i-install-the-latest-nvidia-drivers-automatically
+
